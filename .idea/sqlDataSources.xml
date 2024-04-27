@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DdlMappings">
+    <mapping uuid="969e26cb-90b9-4b0f-8278-f33f97a4f4e5" name="ESHBEL@localhost Mapping">
+      <data-sources db="31004378-e1ac-467d-b930-7d423930cb91" ddl="ec43dc28-b89d-4b6e-a458-84ff05c7a38f" />
+      <scope>
+        <node kind="database" negative="1">
+          <node kind="schema" negative="1" />
+        </node>
+      </scope>
+    </mapping>
+    <mapping uuid="9e5423e3-60e3-4c9f-9969-f510171d7780" name="Microsoft SQL Server - @localhost Mapping">
+      <data-sources db="cda2441e-5a4f-4c5d-bc9d-544011c16383" ddl="ec43dc28-b89d-4b6e-a458-84ff05c7a38f" />
+    </mapping>
+    <mapping uuid="f634ea07-efa3-44aa-b0ef-9858e3b586a0" name="demo@localhost Mapping">
+      <data-sources db="beffaaa5-0583-4fab-99a5-a66121d76a20" />
+    </mapping>
+  </component>
+  <component name="SqlDataSourceStorage">
+    <option name="dataSources">
+      <list>
+        <State>
+          <option name="id" value="ec43dc28-b89d-4b6e-a458-84ff05c7a38f" />
+          <option name="name" value="Microsoft SQL Server - @localhost (DDL)" />
+          <option name="languageId" value="TSQL" />
+          <option name="urls">
+            <array>
+              <option value="file://$PROJECT_DIR$/example.db" />
+            </array>
+          </option>
+        </State>
+      </list>
+    </option>
+  </component>
+</project>
